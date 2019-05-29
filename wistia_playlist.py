@@ -1,3 +1,5 @@
+#This script outputs the link of each video in the playlist url. 
+#TODO- merge this code with youtube-dl wista extractor.
 import urllib.request
 import sys
 import json
